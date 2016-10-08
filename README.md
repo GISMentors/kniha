@@ -1,2 +1,1 @@
-# kniha
-Kniha GISMentors
+# Kniha Open Source GIS
